@@ -6,4 +6,4 @@ ENV N8N_BASIC_AUTH_PASSWORD=Dmstjs89!   # 원하는 비밀번호로 수정 권�
 ENV N8N_HOST=0.0.0.0
 ENV N8N_PORT=5678
 ENV N8N_PROTOCOL=https
-ENV WEBHOOK_URL=https://your-subdomain.onrender.com/
+ENV WEBHOOK_URL=https://n8n-on-render11.onrender.com
