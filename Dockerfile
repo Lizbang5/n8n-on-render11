@@ -6,4 +6,4 @@ ENV N8N_BASIC_AUTH_PASSWORD=Dmstjs89!
 ENV N8N_HOST=0.0.0.0
 ENV N8N_PORT=5678
 ENV N8N_PROTOCOL=https
-ENV WEBHOOK_URL=https://n8n-on-render11.onrender.com/
+ENV WEBHOOK_URL=https://n8n-on-render.onrender.com/
